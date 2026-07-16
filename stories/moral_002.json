@@ -1,0 +1,70 @@
+{
+  "id": "moral_002",
+  "version": 1,
+  "title": "Magic Words",
+  "category": "Moral Stories",
+  "coverImage": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/cover.webp",
+  "ageGroup": "4-12",
+  "readingTime": "5 min",
+  "language": "en",
+  "pages": [
+    {
+      "page": 1,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/1.webp",
+      "text": "Tom and Sam went to their friend Raju's birthday party."
+    },
+    {
+      "page": 2,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/2.webp",
+      "text": "After the party, all the friends played with Raju's toys."
+    },
+    {
+      "page": 3,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/3.webp",
+      "text": "Tom roughly asked Raju, \"Hey, give me that toy jeep!\""
+    },
+    {
+      "page": 4,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/4.webp",
+      "text": "Raju looked at him and said, \"I can't give it to you.\""
+    },
+    {
+      "page": 5,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/5.webp",
+      "text": "Sam politely asked Raju, \"Raju, can you please give me that blue jeep? I will play with it and return it to you.\""
+    },
+    {
+      "page": 6,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/6.webp",
+      "text": "Raju quickly gave him the blue jeep. Sam said, \"Thanks, Raju!\""
+    },
+    {
+      "page": 7,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/7.webp",
+      "text": "Tom complained to Sam, \"He isn't giving me anything.\""
+    },
+    {
+      "page": 8,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/8.webp",
+      "text": "Sam said, \"If you use the magic words politely, like 'please,' he'll give it to you.\""
+    },
+    {
+      "page": 9,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/9.webp",
+      "text": "Tom went back and asked politely, \"Please, Raju, can you give me a toy jeep?\""
+    },
+    {
+      "page": 10,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/10.webp",
+      "text": "Raju quickly gave him the jeep."
+    },
+    {
+      "page": 11,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_002/11.webp",
+      "text": "From that day on, Tom was never rude and always used the magic words."
+    }
+  ],
+  "moral": "Kind and polite words make people happy and help build good friendships. Always remember to say 'please,' 'thank you,' 'you're welcome,' 'excuse me,' and 'I'm sorry.'",
+  "isFeatured": true,
+  "isPremium": false
+}
