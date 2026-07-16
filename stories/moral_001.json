@@ -7,23 +7,58 @@
   "ageGroup": "4-6",
   "readingTime": "5 min",
   "language": "en",
-  "pages": [
-    {
-      "page": 1,
-      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/1.webp",
-      "text": "Ram was playing in the garden."
-    },
-    {
-      "page": 2,
-      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/2.webp",
-      "text": "He saw a fallen, ripe mango on the ground."
-    },
-    {
-      "page": 3,
-      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/3.webp",
-      "text": "It smelled tasty, so he quickly ate it."
-    }
-  ],
+ "pages": [
+  {
+    "page": 1,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/1.webp",
+    "text": "Ram was playing in the garden."
+  },
+  {
+    "page": 2,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/2.webp",
+    "text": "He saw a fallen, ripe mango on the ground."
+  },
+  {
+    "page": 3,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/3.webp",
+    "text": "It smelled tasty, so he quickly ate it."
+  },
+  {
+    "page": 4,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/4.webp",
+    "text": "Later in the evening, his stomach started hurting."
+  },
+  {
+    "page": 5,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/5.webp",
+    "text": "His mother took Ram to the hospital."
+  },
+  {
+    "page": 6,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/6.webp",
+    "text": "The doctor gave him an injection and medicine."
+  },
+  {
+    "page": 7,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/7.webp",
+    "text": "He cried a lot because of the injection."
+  },
+  {
+    "page": 8,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/8.webp",
+    "text": "The doctor said, \"Don't eat anything from the ground without properly cleaning it first.\""
+  },
+  {
+    "page": 9,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/9.webp",
+    "text": "Ram decided, \"Hereafter, I must not eat anything from the ground.\""
+  },
+  {
+    "page": 10,
+    "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_001/10.webp",
+    "text": "\"I must always listen to what my parents say.\""
+  }
+],
   "moral": "Health is the greatest wealth. Always wash your food and hands to stay strong and healthy.",
   "isFeatured": true,
   "isPremium": false
