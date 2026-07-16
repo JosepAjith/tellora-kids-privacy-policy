@@ -1,0 +1,65 @@
+{
+  "id": "moral_003",
+  "version": 1,
+  "title": "Everyone Has a Unique Strength",
+  "category": "Moral Stories",
+  "coverImage": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/cover.webp",
+  "ageGroup": "4-12",
+  "readingTime": "5 min",
+  "language": "en",
+  "pages": [
+    {
+      "page": 1,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/1.webp",
+      "text": "A mango tree and a coconut tree grew close by."
+    },
+    {
+      "page": 2,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/2.webp",
+      "text": "A ripe, yellow mango looked at a mature coconut and laughed."
+    },
+    {
+      "page": 3,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/3.webp",
+      "text": "The coconut asked, \"Why are you laughing at me?\""
+    },
+    {
+      "page": 4,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/4.webp",
+      "text": "The mango replied, \"See how beautiful I am and how ugly you are!\""
+    },
+    {
+      "page": 5,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/5.webp",
+      "text": "Suddenly, a parrot came and pecked at the mango. The mango cried."
+    },
+    {
+      "page": 6,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/6.webp",
+      "text": "Later, during a heavy rainstorm, both the mango and the coconut fell to the ground."
+    },
+    {
+      "page": 7,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/7.webp",
+      "text": "The mango was bruised, but the coconut was unharmed and smiling."
+    },
+    {
+      "page": 8,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/8.webp",
+      "text": "Both rolled towards the river."
+    },
+    {
+      "page": 9,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/9.webp",
+      "text": "The mango drowned in the river, while the coconut floated happily."
+    },
+    {
+      "page": 10,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_003/10.webp",
+      "text": "The mango thought, \"We must not laugh at others. Each of us has a unique power.\""
+    }
+  ],
+  "moral": "Never laugh at others. Everyone has unique strengths and qualities that make them special.",
+  "isFeatured": true,
+  "isPremium": false
+}
