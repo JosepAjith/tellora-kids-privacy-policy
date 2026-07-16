@@ -1,0 +1,70 @@
+{
+  "id": "moral_004",
+  "version": 1,
+  "title": "Sharing and Caring",
+  "category": "Moral Stories",
+  "coverImage": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/cover.webp",
+  "ageGroup": "4-7",
+  "readingTime": "4 min",
+  "language": "en",
+  "pages": [
+    {
+      "page": 1,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/1.webp",
+      "text": "John, Anne, Sheela, Rex, and Peter are classmates."
+    },
+    {
+      "page": 2,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/2.webp",
+      "text": "They always brought biscuits to eat during their class break."
+    },
+    {
+      "page": 3,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/3.webp",
+      "text": "One day, Sheela forgot to bring her biscuits."
+    },
+    {
+      "page": 4,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/4.webp",
+      "text": "John said, \"Let's share!\" and everyone gave a biscuit to Sheela."
+    },
+    {
+      "page": 5,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/5.webp",
+      "text": "But Peter said, \"I can't share my biscuits. These are for me.\""
+    },
+    {
+      "page": 6,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/6.webp",
+      "text": "The others shared among themselves."
+    },
+    {
+      "page": 7,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/7.webp",
+      "text": "From then on, whenever anyone forgot to bring biscuits, the others shared happily."
+    },
+    {
+      "page": 8,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/8.webp",
+      "text": "The next week, Peter's mother was ill and forgot to send biscuits with him."
+    },
+    {
+      "page": 9,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/9.webp",
+      "text": "During the break, he asked his friends for some biscuits, but they refused."
+    },
+    {
+      "page": 10,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/10.webp",
+      "text": "Peter realized his mistake and thought, \"If I had shared with them, they too would have shared with me.\""
+    },
+    {
+      "page": 11,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_004/11.webp",
+      "text": "From that day onwards, Peter always shared and helped people in need happily."
+    }
+  ],
+  "moral": "Sharing and caring bring kindness, friendship, and happiness. When you help others, they will be there to help you too.",
+  "isFeatured": true,
+  "isPremium": false
+}
