@@ -1,0 +1,70 @@
+{
+  "id": "moral_005",
+  "version": 1,
+  "title": "Grow Green",
+  "category": "Moral Stories",
+  "coverImage": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/cover.webp",
+  "ageGroup": "6-9",
+  "readingTime": "4 min",
+  "language": "en",
+  "pages": [
+    {
+      "page": 1,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/1.webp",
+      "text": "Sita was enjoying the beauty of the trees swaying in the heavy rain."
+    },
+    {
+      "page": 2,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/2.webp",
+      "text": "Suddenly, somebody rang the doorbell."
+    },
+    {
+      "page": 3,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/3.webp",
+      "text": "The next-door family came in, saying their house was flooded."
+    },
+    {
+      "page": 4,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/4.webp",
+      "text": "Sita asked her mother, \"Why, Mama, is their house flooded and not ours?\""
+    },
+    {
+      "page": 5,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/5.webp",
+      "text": "Mother explained, \"Because their garden is completely paved with garden tiles, and they have no trees within their compound.\""
+    },
+    {
+      "page": 6,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/6.webp",
+      "text": "\"So, if the drainage blocks, the water has nowhere to go, so it enters the house.\""
+    },
+    {
+      "page": 7,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/7.webp",
+      "text": "\"Within our compound, we have soil and many trees to absorb the water, so we are not flooded.\""
+    },
+    {
+      "page": 8,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/8.webp",
+      "text": "Sita's next-door friend, Anne, listened to this and said, \"Mama, we should plant trees too, and pull out the garden tiles!\""
+    },
+    {
+      "page": 9,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/9.webp",
+      "text": "Sita's mother smiled at her and said, \"Not only that, darling, you also get pure air when you have trees.\""
+    },
+    {
+      "page": 10,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/10.webp",
+      "text": "Sita and Anne said, \"Yes! We can grow flowering plants too to make our gardens beautiful.\""
+    },
+    {
+      "page": 11,
+      "image": "https://cdn.jsdelivr.net/gh/JosepAjith/tellora-kids-privacy-policy@main/images/moral_005/11.webp",
+      "text": "Let's grow green and make our gardens greener!"
+    }
+  ],
+  "moral": "Plant more trees and protect nature. Trees help prevent floods, give us clean air, and make our world healthier and more beautiful.",
+  "isFeatured": true,
+  "isPremium": false
+}
